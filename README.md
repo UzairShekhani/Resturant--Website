@@ -1,7 +1,6 @@
 # Ecommerce-Website-Using-HTML-CSS-JavaScript
 
-Watch on Youtube:
-https://bit.ly/3MAsuiq
+
 
 🌟 In this video tutorial, you'll learn how to create a fully responsive eCommerce website using HTML, CSS, and JavaScript. Learn how to build an attractive and user-friendly online store from scratch. Perfect for web developers and beginners alike. Don't miss out on this comprehensive guide to creating an impressive eCommerce website.
 
